@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+靡不有初，鲜克有终。
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lee-Jp&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
+
+
 <!--
 **Lee-Jp/Lee-Jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
