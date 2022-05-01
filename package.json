@@ -1,0 +1,16 @@
+{
+  "name": "flymon",
+  "version": "0.0.0",
+  "description": "Hi, I am flymon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lee-Jp/Lee-Jp"
+  },
+  "keywords": ["flymon", "Lee-jp", "不是酸柠檬"],
+  "author": "Lee-Jp <95333@sohu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lee-Jp/Lee-Jp/issues"
+  },
+  "homepage": "https://github.com/Lee-Jp/Lee-Jp#readme"
+}
